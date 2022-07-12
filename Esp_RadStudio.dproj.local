@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/25 16:31:13.000.134,=C:\Users\mbilo\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/07/08 20:13:36.000.015,=C:\Users\mbilo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/08 20:17:37.000.581,C:\Users\mbilo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Matheus\2022\UEPG\Robótica\Deslocamento Linear Prático\Esp_RadStudio\Principal.dfm</Transaction>
+    <Transaction>2022/07/08 20:17:37.000.581,C:\Users\mbilo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Matheus\2022\UEPG\Robótica\Deslocamento Linear Prático\Esp_RadStudio\Principal.pas</Transaction>
+    <Transaction>2022/07/08 20:17:46.000.123,C:\Users\mbilo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Matheus\2022\UEPG\Robótica\Deslocamento Linear Prático\Esp_RadStudio\Esp_RadStudio.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
